@@ -9,3 +9,5 @@ Data Science Bootcamp with Datarockie
 # Programming
  - Web scraping - [Web Scraping Project.pdf](https://github.com/KanWatchara/bootcamp_projects/files/10840592/Web.Scraping.Project.pdf)
 
+# SQL
+ - Restaurant owner - https://replit.com/@WatcharaWachira/SQL-Project#main.sql
