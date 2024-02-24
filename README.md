@@ -1,7 +1,7 @@
 # Bootcamp projects
 Data Science Bootcamp with Datarockie
 
-10 sprints during 4-month program 🖥️
+10 sprints during 6-month program 🖥️
 
 # Spreadsheets
  - Dynamic Query - [Project Dynamic Query.pdf](https://github.com/KanWatchara/bootcamp_projects/files/10840863/Project.Dynamic.Query.pdf)
